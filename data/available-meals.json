@@ -120,6 +120,13 @@
     "image": "images/cake.jpg"
   },
   {
+    "id": "m15",
+    "name": " Chocolate Cake",
+    "price": "199",
+    "description": "",
+    "image": "images/chocolate-cake.jpg"
+  },
+  {
     "id": "m16",
     "name": "Gulab Jamun",
     "price": "49",
